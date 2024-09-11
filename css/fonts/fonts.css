@@ -1,0 +1,26 @@
+@font-face {
+  font-family: "Agatho";
+  src: url("./AgathoBold.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Agatho CAPS";
+  src: url("./AgathoBoldCAPS.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Arastin";
+  src: url("./ArastinStd.ttf") format("truetype");
+}
+
+.font-agatho {
+  font-family: "Agatho";
+}
+
+.font-agatho-caps {
+  font-family: "Agatho CAPS";
+}
+
+.font-arastin {
+  font-family: "Arastin";
+}
